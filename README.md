@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm working on Perception for Autonomous Cars
+- I'm Interested in Deep Learning, Machine Learning, Computer Vision, and Autonomous Systems
+- You can contact me through [LinkedIn](www.linkedin.com/in/rahul-rewale)
 <!--
 **RahulRewale/RahulRewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
