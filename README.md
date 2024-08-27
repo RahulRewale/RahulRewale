@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- I'm working on Perception for Autonomous Cars
-- I'm interested in Deep Learning, Machine Learning, Computer Vision, and Autonomous Systems
+- I'm currently working on perception for autonomous mobile robots (AMR) for warehouse automation.
+- In the not-so-distant past, I worked on perception for autonomous cars.
+- I'm interested in Deep Learning, Machine Learning, Computer Vision, Autonomous Systems, and Robotics.
 - You can contact me through [LinkedIn](https://www.linkedin.com/in/rahul-rewale)
 <!--
 **RahulRewale/RahulRewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
