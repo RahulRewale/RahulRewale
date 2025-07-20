@@ -2,7 +2,7 @@
 
 - I'm currently working on perception for autonomous mobile robots (AMR) for warehouse automation.
 - In the not-so-distant past, I worked on perception for autonomous cars.
-- I have worked with 2D and 3D cameras and devised an algorithm to accurately estimate the 3D pose (x, y, z, and yaw) of various types of pallets in a warehouse.
+- I have worked with 2D and 3D cameras and devised an algorithm to accurately estimate the 3D pose (x, y, z, and yaw) of various types of pallets in a warehouse, which is currently under consideration for a patent filing.
 - I have also worked with 2D and 3D lidars and fused their data to detect nearby obstacles.
 - I'm interested in Deep Learning, Machine Learning, Computer Vision, Autonomous Systems, and Robotics.
 - You can contact me through [LinkedIn](https://www.linkedin.com/in/rahul-rewale)
