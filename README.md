@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- I'm currently working on perception for autonomous mobile robots (AMR) for warehouse automation.
-- In the not-so-distant past, I worked on perception for autonomous cars.
-- I have worked with 2D and 3D cameras and devised an algorithm to accurately estimate the 3D pose (x, y, z, and yaw) of various types of pallets in a warehouse, which is currently under consideration for a patent filing.
-- I have also worked with 2D and 3D lidars and fused their data to detect nearby obstacles.
-- I'm interested in Deep Learning, Machine Learning, Computer Vision, Autonomous Systems, and Robotics.
+- I am looking for a Senior/Lead Robotics Perception Engineer role
+- Recently, I developed and deployed the perception stack end-to-end for autonomous mobile robots (AMR), specifically autonomous forklifts, for warehouse automation.
+- In the not-so-distant past, I worked on the perception stack for autonomous cars.
+- I have worked with 2D and 3D cameras and devised an algorithm to accurately estimate the 3D pose (x, y, z, and yaw) of various types of pallets in a warehouse.
+- I have calibrated and fused data from multiple 2D and 3D LiDARs for real-time obstacle detection.
+- I have fused camera data with LiDAR data to estimate road plane in 3D for autonomous cars.
+- I am interested in Deep Learning, Computer Vision, Autonomous Systems, and Robotics.
 - You can contact me through [LinkedIn](https://www.linkedin.com/in/rahul-rewale)
   
 <!--
